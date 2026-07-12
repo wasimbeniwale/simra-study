@@ -1,0 +1,4 @@
+# Ignore all files in the textbook directory
+/english/textbook/*
+
+.DS_Store
