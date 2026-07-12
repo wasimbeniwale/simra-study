@@ -3,9 +3,11 @@
 **Repository-wide index of classes, subjects, and unit files (auto-generated).**
 
 **Disclaimer:**
-- Notes in this repository were generated using a local AI model guided by the Maharashtra State Board (Balbharati) syllabus. They are not official Balbharati publications. Please verify against official textbooks and curriculum documents before using them for study or exams.
+- Notes in this repository were generated using a local AI model guided by the Maharashtra State Board (Balbharati) syllabus. They are not official Balbharati publications. Please verify against official textbooks and curriculum documents before relying on them.
 
 ---
+
+> This file can be regenerated automatically by the helper script at `scripts/generate_index.py` or via the GitHub Action `.github/workflows/update-index.yml`.
 
 ## Classes (current)
 
@@ -27,6 +29,34 @@
       - [Unit 4 — Hindi](class-1/english/ai-notes/unit-4-hindi.md)
       - [Unit 4 — Marathi](class-1/english/ai-notes/unit-4-marathi.md)
 
+  - Marathi (AI notes): [class-1/marathi/ai-notes/](class-1/marathi/ai-notes/)
+    - Unit files (in class-1/marathi/ai-notes/):
+      - [Unit 1 — Marathi](class-1/marathi/ai-notes/unit-1-marathi.md)
+      - [Unit 1 — Hindi](class-1/marathi/ai-notes/unit-1-hindi.md)
+      - [Unit 2 — Marathi](class-1/marathi/ai-notes/unit-2-marathi.md)
+      - [Unit 2 — Hindi](class-1/marathi/ai-notes/unit-2-hindi.md)
+      - [Unit 3 — Marathi](class-1/marathi/ai-notes/unit-3-marathi.md)
+      - [Unit 3 — Hindi](class-1/marathi/ai-notes/unit-3-hindi.md)
+      - [Unit 4 — Marathi](class-1/marathi/ai-notes/unit-4-marathi.md)
+      - [Unit 4 — Hindi](class-1/marathi/ai-notes/unit-4-hindi.md)
+
+  - Maths (AI notes): [class-1/maths/ai-notes/](class-1/maths/ai-notes/)
+    - Unit files (in class-1/maths/ai-notes/):
+      - [Unit 1 — Marathi](class-1/maths/ai-notes/unit-1-marathi.md)
+      - [Unit 1 — Hindi](class-1/maths/ai-notes/unit-1-hindi.md)
+      - [Unit 2 — Marathi](class-1/maths/ai-notes/unit-2-marathi.md)
+      - [Unit 2 — Hindi](class-1/maths/ai-notes/unit-2-hindi.md)
+      - [Unit 3 — Marathi](class-1/maths/ai-notes/unit-3-marathi.md)
+      - [Unit 3 — Hindi](class-1/maths/ai-notes/unit-3-hindi.md)
+      - [Unit 4 — Marathi](class-1/maths/ai-notes/unit-4-marathi.md)
+      - [Unit 4 — Hindi](class-1/maths/ai-notes/unit-4-hindi.md)
+      - [Unit 5 — Marathi](class-1/maths/ai-notes/unit-5-marathi.md)
+      - [Unit 5 — Hindi](class-1/maths/ai-notes/unit-5-hindi.md)
+      - [Unit 6 — Marathi](class-1/maths/ai-notes/unit-6-marathi.md)
+      - [Unit 6 — Hindi](class-1/maths/ai-notes/unit-6-hindi.md)
+      - [Unit 7 — Marathi](class-1/maths/ai-notes/unit-7-marathi.md)
+      - [Unit 7 — Hindi](class-1/maths/ai-notes/unit-7-hindi.md)
+
 ---
 
 ## Tips for maintaining the index
@@ -37,7 +67,7 @@
   3. For each subject, add a `README.md` in the subject folder and an `ai-notes/` folder for unit files.
   4. Optionally open a pull request to update this index (or ask me and I can update it automatically).
 
-- If you prefer, I can automate index updates by scanning the repository and regenerating this file on request.
+- The repository contains a script and GitHub Action which can regenerate this file automatically on pushes.
 
 ---
 
@@ -48,6 +78,5 @@
 ---
 
 If you'd like, I can also:
-- Automatically regenerate this index whenever you add new files (run on demand),
-- Create a script (Makefile / GitHub Action) to update the index automatically on pushes,
-- Add a CONTRIBUTING.md with conventions for naming files so the index can be discovered automatically.
+- Create a CONTRIBUTING.md with conventions for file naming so the index can be discovered automatically,
+- Improve the script to also generate a Marathi INDEX (INDEX.mr.md).
