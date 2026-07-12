@@ -1,4 +1,4 @@
-[मराठी आवृत्ती](README.mr.md)
+[मराठी आवृत्ती](README.mr.md) — [INDEX](INDEX.md)
 
 # Simra Study — Maharashtra State Board (Balbharati) Notes
 
@@ -12,7 +12,7 @@
 
 ## How this repo is organized
 
-- The notes are organized by class and subject. Each subject folder may contain an `ai-notes` directory with unit-level Markdown files.
+- The notes are organized by class and subject. Each subject folder may contain an `ai-notes` directory with unit-level Markdown files. See the repository INDEX for a full overview: [INDEX.md](INDEX.md)
 
 ## Quick links (Class 1)
 
@@ -30,7 +30,33 @@
 - [Unit 4 — Hindi (in English folder)](class-1/english/ai-notes/unit-4-hindi.md)
 - [Unit 4 — Marathi (in English folder)](class-1/english/ai-notes/unit-4-marathi.md)
 
-> Note: Some translations or subject-specific notes (Hindi/Marathi) are stored alongside English notes in the `class-1/english/ai-notes/` directory. If you have other classes or subjects in this repo, add links here similarly.
+### Marathi (AI Notes)
+- [Unit 1 — Marathi](class-1/marathi/ai-notes/unit-1-marathi.md)
+- [Unit 1 — Hindi (in Marathi folder)](class-1/marathi/ai-notes/unit-1-hindi.md)
+- [Unit 2 — Marathi](class-1/marathi/ai-notes/unit-2-marathi.md)
+- [Unit 2 — Hindi (in Marathi folder)](class-1/marathi/ai-notes/unit-2-hindi.md)
+- [Unit 3 — Marathi](class-1/marathi/ai-notes/unit-3-marathi.md)
+- [Unit 3 — Hindi (in Marathi folder)](class-1/marathi/ai-notes/unit-3-hindi.md)
+- [Unit 4 — Marathi](class-1/marathi/ai-notes/unit-4-marathi.md)
+- [Unit 4 — Hindi (in Marathi folder)](class-1/marathi/ai-notes/unit-4-hindi.md)
+
+### Maths (AI Notes)
+- [Unit 1 — Marathi](class-1/maths/ai-notes/unit-1-marathi.md)
+- [Unit 1 — Hindi (in Maths folder)](class-1/maths/ai-notes/unit-1-hindi.md)
+- [Unit 2 — Marathi](class-1/maths/ai-notes/unit-2-marathi.md)
+- [Unit 2 — Hindi (in Maths folder)](class-1/maths/ai-notes/unit-2-hindi.md)
+- [Unit 3 — Marathi](class-1/maths/ai-notes/unit-3-marathi.md)
+- [Unit 3 — Hindi (in Maths folder)](class-1/maths/ai-notes/unit-3-hindi.md)
+- [Unit 4 — Marathi](class-1/maths/ai-notes/unit-4-marathi.md)
+- [Unit 4 — Hindi (in Maths folder)](class-1/maths/ai-notes/unit-4-hindi.md)
+- [Unit 5 — Marathi](class-1/maths/ai-notes/unit-5-marathi.md)
+- [Unit 5 — Hindi (in Maths folder)](class-1/maths/ai-notes/unit-5-hindi.md)
+- [Unit 6 — Marathi](class-1/maths/ai-notes/unit-6-marathi.md)
+- [Unit 6 — Hindi (in Maths folder)](class-1/maths/ai-notes/unit-6-hindi.md)
+- [Unit 7 — Marathi](class-1/maths/ai-notes/unit-7-marathi.md)
+- [Unit 7 — Hindi (in Maths folder)](class-1/maths/ai-notes/unit-7-hindi.md)
+
+> For a complete repo overview, open [INDEX.md](INDEX.md).
 
 ---
 
@@ -42,6 +68,6 @@
 ---
 
 If you'd like, I can:
-- Add READMEs inside each class/subject folder linking to their units,
-- Automatically generate an index across all classes and subjects discovered in the repo, or
-- Add badges or a short contribution guide.
+- Add READMEs inside any new class/subject folder linking to their units,
+- Regenerate INDEX.md automatically whenever you push new files (via a GitHub Action), or
+- Add an INDEX.mr.md Marathi version of the index.
