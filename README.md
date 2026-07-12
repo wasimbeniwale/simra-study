@@ -1,3 +1,5 @@
+[मराठी आवृत्ती](README.mr.md)
+
 # Simra Study — Maharashtra State Board (Balbharati) Notes
 
 **Disclaimer:**
