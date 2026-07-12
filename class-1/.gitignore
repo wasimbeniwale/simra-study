@@ -1,4 +1,5 @@
 # Ignore all files in the textbook directory
 /english/textbook/*
+/marathi/textbook/*
 
 .DS_Store
